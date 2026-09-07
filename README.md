@@ -40,15 +40,3 @@
 </p>
 
 <br>
-
-<h2 align="center">Tecnologías</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,java,mysql,git,github,vite" />
-</p>
-
-<br>
-
-<p align="center">
-  <i>Siempre aprendiendo. Siempre construyendo.</i>
-</p>
