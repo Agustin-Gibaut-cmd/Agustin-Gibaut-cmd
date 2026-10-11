@@ -5,7 +5,6 @@ Currently living in Argentina, in the city of Córdoba.
 
 I have experience in **frontend development**, complemented by backend technologies, and I'm always looking for new ways to improve my skills and build better software.
 
-I recently worked at **JGO Technology**, where I contributed to the development of their product and had the opportunity to grow through real-world development experience.
 
 ## If we ever get the chance to work together, you'll probably notice that:
 
