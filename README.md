@@ -1,19 +1,24 @@
-## Hey, hello everyone! 
+# Agustin Gibaut
 
-I'm **Agus**, and I'm a **Software Developer**.
-Currently living in Argentina, in the city of Córdoba.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
+</p>
 
-I have experience in **frontend development**, complemented by backend technologies, and I'm always looking for new ways to improve my skills and build better software.
+---
 
+<h3 align="center">GitHub Statistics</h3>
 
-## If we ever get the chance to work together, you'll probably notice that:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Agustin-Gibaut-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Gibaut-cmd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-*  I like taking initiative and I'm always looking for something new to learn.
-*  I enjoy understanding problems, finding solutions, and figuring out how things work.
-*  I'm not afraid of not knowing something — I'd rather learn it than pretend I do.
-*  I may not be the most experienced developer in the room, but I always try to give my best and keep improving.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Agustin-Gibaut-cmd&theme=tokyonight&hide_border=true" />
+</p>
 
-I believe the best software is created through teamwork, good communication, and a positive environment where everyone can feel comfortable doing their best.
+---
 
-## If you like, you can find me at:
-[![LinkedIn](https://img.shields.io/badge/Find%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-agustin-gibaut-carrizo/)
+<p align="center">
+  <i>Building. Learning. Improving.</i>
+</p>
